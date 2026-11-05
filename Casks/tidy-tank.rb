@@ -1,6 +1,6 @@
 cask "tidy-tank" do
-  version "0.7.1"
-  sha256 "ecc4e3e132ee7d901f1987c0a891afe9af3175874376750f1034cf3f939f682c"
+  version "0.7.2"
+  sha256 "c28a5dcf1c2385bc98eb86db03a62c9a331c3cf6e8ad54272a38e5b3f3a0423d"
 
   url "https://dl.tidytank.app/TidyTank-#{version}-macos-signed.dmg"
   name "Tidy Tank"
